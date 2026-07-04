@@ -1,0 +1,61 @@
+{
+  "citations": [
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3ZJN2JhZFFBT05ieXE1ck1uaWEzWlpBWURWNmFTX0xMVV9falNoZ3RwRlNGbmNVNlkyV1huSGFlOEN2WEtCTFpXLTNKd2hWZGdMN1N0c1BKOFFMUzZoajdaaXJuZFM1Wmdhak9sM2Z0eFVNOVdqZElobnVUUXFMOEMzR1dUaktwSGpBNFIzUHJQZXAyOHhj?oc=5)",
+    "[wired.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBlcXhkUE5FOGtZcFE2Z2dyNGN1WTNVWFUzOUM5bEUxLUZzcGZvV19JVmhzcVA4alZjWTQ4WDdXc2dTZk1zRThhV0tCVUFrS3FxSGRfQkhncFFoUHBEVVMwU19fVzZwcnZraTVldENwalRkR3hxaThLcnNIR0YyT2M?oc=5)",
+    "[pcmag.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KTm1lUlBmaUNlNnVmYnBHS2NiYjdMSUxwRHhaaFVhcXhBZ1lQdURpc2xqTkstOEx1dGZjZzRWNnp0SjRMX1dETWI2NkFPclk3aUpUUk5lOUYydi1YTGE4?oc=5)",
+    "[theverge.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUptdThEd081YlBDdWxTelRiWUdIUzRyVkd5ckw1anBRYWdtY0lwQ1BvWFE3TG5pRUJYZjlVTWU0cjlGSEhwT1YxcHhqMnpmUmplSkxCRHpNUzcxNXBON2JnWE9WbnhoX0E4eE1CWF9zUTNuemtLR1ljMXo0UTJsQ2ltVUFjTVp3QnpsbGszWS1rU1RiNkZjbQ?oc=5)",
+    "[fortune.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcW4ySlh4cElBbDBsdVhoT1FiQ0tLclNUV1ZKaTYxaUZIdDFuZm8yTHZkZ3k1QzBRMG51MzZnZ2I0eUFfQ3hwLVpYVnNrOURwYWNObEVqNlRHakJXc1pSMzdXX3BaR3NCaHcwMzF3N1BFalkyeEdfRmljQ0NhSTlzRFRaaW5mVUtMT3JKRi1MczlpQlZsM283OFllWHlfcTJzVHdyczQ4X3RqRVFTY2xGcmdjU2VKV19QNXR6NVZXWQ?oc=5)"
+  ],
+  "design_plan": "rng=1337; AIDA checked; hero width targets 2\u20133 lines at 1120px; bento density verified with grid-auto-flow:dense; label sweep includes all competitors; button contrast passes WCAG AA; CSS length target >4200 chars met.",
+  "generated_at": "2026-07-04T20:20:14.461758+00:00",
+  "headline": "Meta Display AI assistant that actually gets work done",
+  "site_brief": {
+    "audience": "people evaluating AI assistants for Meta smart glasses and display-style wearable workflows",
+    "canonical_url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Meta Display AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "Meta smart glasses AI assistant",
+      "Meta Display AI assistant",
+      "AI assistant for smart glasses",
+      "wearable AI agent computer use"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "meta-display-ai-assistant",
+    "title": "Meta Display AI assistant",
+    "use_case_intent": "show how Super can become the action layer for hands-free Meta Display workflows beyond simple voice answers"
+  },
+  "summary": "An indexable, workflow-first use case page showing how Super becomes the action layer for Meta Display smart glasses\u2014going beyond voice answers to real computer use with a reusable computer-use cache."
+}
